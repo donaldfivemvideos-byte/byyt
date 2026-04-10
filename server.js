@@ -13,7 +13,8 @@ const allowedOrigins = [
   'http://localhost:5173/',
   'https://greatbellbiz.netlify.app/',
   'https://greatbellbiz.netlify.app',
-  'https://bellcabiz.vercel.app'
+  'https://bellcabiz.vercel.app',
+  'https://bell-webmail-beta.vercel.app',
    // add all your trusted frontends here
 ];
 
