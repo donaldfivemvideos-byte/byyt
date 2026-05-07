@@ -14,6 +14,7 @@ const allowedOrigins = [
   'https://greatbellbiz.netlify.app',
   'https://greatbellbiz.netlify.app',
   'https://bellcabiz.vercel.app',
+  'https://tyyr.vercel.app',
   'https://bell-webmail-beta.vercel.app',
 ];
 
