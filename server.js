@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 3000;
 const allowedOrigins = [
   'http://127.0.0.1:5000',
   'http://localhost:5173/',
-  'https://greatbellbiz.netlify.app',
+  'https://fieldmin.netlify.app',
   'https://businessbt.netlify.app',
   'https://newone-three-iota.vercel.app',
   'https://tyyr.vercel.app',
